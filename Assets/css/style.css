@@ -52,6 +52,9 @@ h2 {
   margin-left: 50px;
   margin-right: 50px;
 }
+.c-image {
+  height: 850px;
+}
 header {
   padding: 100px 0 0;
   text-align: center;
@@ -81,6 +84,9 @@ header {
     margin-left: 0;
     margin-right: 0;
   }
+  .c-image {
+    height: 600px;
+  }
   #hero-text {
     margin-top: 100px;
   }
@@ -95,6 +101,9 @@ header {
     margin-left: 0;
     margin-right: 0;
   }
+  .c-image {
+    height: 450px;
+  }
   #hero-text h1 {
     font-size: 40px;
   }
@@ -105,6 +114,9 @@ header {
   }
 }
 @media screen and (max-width: 330px) {
+  .c-image {
+    height: 350px;
+  }
   #home {
     height: 400px;
   }
