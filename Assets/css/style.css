@@ -47,8 +47,8 @@ h2 {
 }
 /* header */
 #home {
-  margin-top: 80px;
-  height: 850px;
+  /* margin-top: 80px; */
+  height: 900px;
   margin-left: 50px;
   margin-right: 50px;
 }
